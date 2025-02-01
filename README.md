@@ -9,3 +9,4 @@ destacando la forma en que se interactúa con él.
 
 - Incluye un encabezado que permite navegar entre diferentes páginas.
 - En la página principal, se puede encontrar con enlaces a las distintas redes sociales del perfil.
+
